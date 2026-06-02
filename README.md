@@ -17,14 +17,16 @@
 
 # 🚀 Featured Projects
 
-### 📈 AI Swing Trading Scanner
-Machine learning system that scans ~1700 NSE stocks daily and automatically sends the best swing trading setups.
+###🤖 AI Interview Copilot
+
+Built a RAG-based interview preparation platform using FastAPI, LangChain, Mistral AI, and ChromaDB that processes resumes, performs semantic retrieval, and generates personalized interview questions based on candidate skills, projects, and experience.
+
+###📄 DocuMind AI
+
+Developed an intelligent document question-answering system that enables users to upload PDFs, generate embeddings, perform semantic search, and retrieve accurate answers using Retrieval-Augmented Generation (RAG).
 
 ### 🛡 Deepfake & Image Forgery Detection
 Computer vision model using PyTorch and OpenCV to detect manipulated or AI-generated images.
-
-### 💳 Credit Card Fraud Detection
-Machine learning pipeline to detect fraudulent financial transactions using classification algorithms.
 
 ### 🎮 Wastelands Game Landing Page UI
 Game themed landing page designed in Figma focusing on immersive visuals and UX.
